@@ -1,6 +1,8 @@
 # pinetalk-artwork
 Logos created for the PineTalk podcast (https://www.pine64.org/pinetalk/)
 
+These are provided here as both .svg (scalable vector graphic) and .png (Raster Images of Resolution 1024²).
+The files were created in Inkscape.
 
 the PineTalk Logos by Julius GU are marked with CC0 1.0 Universal
 
